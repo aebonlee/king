@@ -1,3 +1,3 @@
-# king   - king.jobability.co.kr
+# king    - http://king.jobability.co.kr
 
 <img src="king.png">
