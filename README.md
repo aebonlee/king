@@ -1,3 +1,2 @@
-# king    - http://king.jobability.co.kr
-
+# king    - https://aebonlee.github.io/king/
 <img src="king.png">
